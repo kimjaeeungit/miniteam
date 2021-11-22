@@ -17,7 +17,6 @@ public class DBConn {
 			System.out.println("OracleService.getConnection() : " + e.toString());
 		}
 		return null;
-
 	}
 
 	public static void main(String[] args) {
