@@ -46,7 +46,6 @@ public class OrderEx {
 			}
 		}
 	}
-
 	// 메인메뉴 실행부
 	static void execute() {
 		System.out.println("▨▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▧");
